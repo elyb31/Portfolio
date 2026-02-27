@@ -1,2 +1,2 @@
 # Portfolio
-A collection of projects and assignments I've done.
+A collection of projects and assignments I've done at McGill University.
