@@ -1,0 +1,1 @@
+This was a project created with a teammate. I'm unable to include the files to run the game according to course copyright rules. The agent plays Go and achieves a win rate of 100% against human players or agents that place pieces randomly.
